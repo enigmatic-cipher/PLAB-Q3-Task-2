@@ -15,5 +15,5 @@ for i in range(0,ln):
     st1 = st1 + "c"
   else:
     st1 = st1 + ch
-print(st)
+print(st1)
 
